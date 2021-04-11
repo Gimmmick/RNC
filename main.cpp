@@ -2,7 +2,6 @@
 The program converts an input number into its Roman version and 
 only accepts numbers from 1 to 10.
 
-@author Vlada Foulke
 @version 10/09/2020
 *******************************************************************************/
 
